@@ -1,4 +1,8 @@
+
 # Variant calling from NGS data of two accessions of Lablab purpureus
+
+
+![image of lab lab](https://www.feedipedia.org/sites/default/files/images/lablab_seeds.jpg)
 
 ## Introduction
 
